@@ -1,0 +1,9 @@
+E:\FolderForPractise\testingproject\testingproject\Shared\bin\Debug\netstandard2.1\testingproject.Shared.deps.json
+E:\FolderForPractise\testingproject\testingproject\Shared\bin\Debug\netstandard2.1\testingproject.Shared.dll
+E:\FolderForPractise\testingproject\testingproject\Shared\bin\Debug\netstandard2.1\testingproject.Shared.pdb
+E:\FolderForPractise\testingproject\testingproject\Shared\obj\Debug\netstandard2.1\testingproject.Shared.csprojAssemblyReference.cache
+E:\FolderForPractise\testingproject\testingproject\Shared\obj\Debug\netstandard2.1\testingproject.Shared.AssemblyInfoInputs.cache
+E:\FolderForPractise\testingproject\testingproject\Shared\obj\Debug\netstandard2.1\testingproject.Shared.AssemblyInfo.cs
+E:\FolderForPractise\testingproject\testingproject\Shared\obj\Debug\netstandard2.1\testingproject.Shared.csproj.CoreCompileInputs.cache
+E:\FolderForPractise\testingproject\testingproject\Shared\obj\Debug\netstandard2.1\testingproject.Shared.dll
+E:\FolderForPractise\testingproject\testingproject\Shared\obj\Debug\netstandard2.1\testingproject.Shared.pdb
